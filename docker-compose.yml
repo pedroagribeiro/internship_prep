@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  ubuntu_kitado:
+    build: .
+    container_name: ubuntu_kitado 
